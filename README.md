@@ -42,12 +42,12 @@ When I discover this sort of thing, I always seem to feel this sense of anxiety 
 
 ## Images
 
-![Help](captures/WordPerhect (1).png)
+![Help](https://github.com/softwarehistorysociety/wordperhect/blob/9b47738886fbbb67dda29810cded84de3d921a3e/captures/WordPerhect%20(1).png)
 
-![Help Smoke](captures/WordPerhect (3).png)
+![Help Smoke](https://github.com/softwarehistorysociety/wordperhect/blob/9b47738886fbbb67dda29810cded84de3d921a3e/captures/WordPerhect%20(3).png)
 
-![Help Print](captures/WordPerhect (4).png)
+![Help Print](https://github.com/softwarehistorysociety/wordperhect/blob/9b47738886fbbb67dda29810cded84de3d921a3e/captures/WordPerhect%20(4).png)
 
-![Help Mail](captures/WordPerhect - Mail.png)
+![Help Mail](https://github.com/softwarehistorysociety/wordperhect/blob/9b47738886fbbb67dda29810cded84de3d921a3e/captures/WordPerhect%20-%20Mail.png)
 
-![Help Eat](captures/WordPerhect (1).png)
+![Help Eat](https://github.com/softwarehistorysociety/wordperhect/blob/0c582e641dbf001f37fb59ce942897e564b0ddc9/captures/WordPerhect%20(1).png)
