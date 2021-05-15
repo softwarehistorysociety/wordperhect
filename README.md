@@ -1,4 +1,4 @@
-![Mail](https://www.davidblue.wtf/wp-content/uploads/WordPerhect-Mail.png)
+![Mail](wordperhect.e-2.org/images/perhect-noflash.gif)
 
 # Word Perhect
 
@@ -42,12 +42,12 @@ When I discover this sort of thing, I always seem to feel this sense of anxiety 
 
 ## Images
 
-![Help](https://www.davidblue.wtf/wp-content/uploads/WordPerhect-2.png)
+![Help](captures/WordPerhect (1).png)
 
-![Help Smoke](https://www.davidblue.wtf/wp-content/uploads/WordPerhect-3.png)
+![Help Smoke](captures/WordPerhect (3).png)
 
-![Help Print](https://www.davidblue.wtf/wp-content/uploads/WordPerhect-4.png)
+![Help Print](captures/WordPerhect (4).png)
 
-![Help Mail](https://www.davidblue.wtf/wp-content/uploads/WordPerhect-Mail-1.png)
+![Help Mail](captures/WordPerhect - Mail.png)
 
-![Help Eat](https://www.davidblue.wtf/wp-content/uploads/WordPerhect-1.png)
+![Help Eat](captures/WordPerhect (1).png)
